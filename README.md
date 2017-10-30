@@ -8,6 +8,17 @@
 
 ---
 
+# 效果截图
+
+![李家村](img/screenshot/1.png)
+
+![与npc对话](img/screenshot/2.png)
+
+![李家村市场](img/screenshot/3.png)
+
+---
+
+
 # 实现思路
 
 1. 静态页面（窗口 画板 场景 角色）
